@@ -1,0 +1,1 @@
+require "rspec_matchers_adhere_to_schema/identity"
