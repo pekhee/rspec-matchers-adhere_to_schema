@@ -15,5 +15,7 @@ Style/StringLiterals:
   EnforcedStyle: double_quotes
 Style/StringLiteralsInInterpolation:
   EnforcedStyle: double_quotes
+Style/Alias:
+  Enabled: false
 Metrics/LineLength:
   Max: 120
