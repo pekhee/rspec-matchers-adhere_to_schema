@@ -83,8 +83,8 @@ This gem is signed. Use pekhee.pem as public key.
       end
 
       it "adheres to user schema" do
-        expect(subject).to match_schema user_schema
-        expect(subject).to matche_schema :user # spec/schemas/user.json
+        expect(subject).to adhere_to_schema user_schema
+        expect(subject).to adhere_to_schema :user # spec/schemas/user.json
       end
     end
 
