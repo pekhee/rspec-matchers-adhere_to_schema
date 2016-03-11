@@ -1,10 +1,10 @@
 # RSpec Matcher `adhere_to_schema`
 
-[![Gem Version](https://badge.fury.io/rb/rspec_matcher_match_schema.svg)](http://badge.fury.io/rb/rspec_matcher_match_schema)
-[![Code Climate GPA](https://codeclimate.com/github//rspec_matcher_match_schema.svg)](https://codeclimate.com/github/pekhee/rspec_matcher_match_schema)
-[![Code Climate Coverage](https://codeclimate.com/github//rspec_matcher_match_schema/coverage.svg)](https://codeclimate.com/github/pekhee/rspec_matcher_match_schema)
-[![Gemnasium Status](https://gemnasium.com//rspec_matcher_match_schema.svg)](https://gemnasium.com/pekhee/rspec_matcher_match_schema)
-[![Travis CI Status](https://secure.travis-ci.org//rspec_matcher_match_schema.svg)](https://travis-ci.org/pekhee/rspec_matcher_match_schema)
+[![Gem Version](https://badge.fury.io/rb/rspec-matchers-adhere_to_schema.svg)](http://badge.fury.io/rb/rspec-matchers-adhere_to_schema)
+[![Code Climate GPA](https://codeclimate.com/github//rspec-matchers-adhere_to_schema.svg)](https://codeclimate.com/github/pekhee/rspec-matchers-adhere_to_schema)
+[![Code Climate Coverage](https://codeclimate.com/github//rspec-matchers-adhere_to_schema/coverage.svg)](https://codeclimate.com/github/pekhee/rspec-matchers-adhere_to_schema)
+[![Gemnasium Status](https://gemnasium.com//rspec-matchers-adhere_to_schema.svg)](https://gemnasium.com/pekhee/rspec-matchers-adhere_to_schema)
+[![Travis CI Status](https://secure.travis-ci.org//rspec-matchers-adhere_to_schema.svg)](https://travis-ci.org/pekhee/rspec-matchers-adhere_to_schema)
 
 <!-- Tocer[start]: Auto-generated, don't remove. -->
 
