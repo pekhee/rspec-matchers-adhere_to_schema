@@ -1,0 +1,20 @@
+{
+  "title": "Articles Schema",
+  "type": "object",
+  "properties": {
+    "data": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "attributes": {
+            "properties": {
+              "title": { "type": "string" },
+              "body": { "type": "string" }
+            }
+          }
+        }
+      }
+    }
+  }
+}
