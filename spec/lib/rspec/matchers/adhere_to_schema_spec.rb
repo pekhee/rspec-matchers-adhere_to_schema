@@ -40,7 +40,7 @@ describe "RSpec::Matchers::AdhereToSchema" do
 
     describe "#and_jsonapi" do
       it "also checks for jsonapi compatibility" do
-        expect(data).to adhere_to_schema(:article_schema).and_jsonapi
+        expect(data).to adhere_to_schema(:article).and_jsonapi
       end
     end
   end
