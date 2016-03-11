@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    rspec-matchers-adhere_to_schema (0.1.0)
+    rspec-matchers-adhere_to_schema (0.1.1)
       json-schema
       rspec-matcher
 
